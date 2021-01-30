@@ -1,0 +1,25 @@
+{
+	"name": "myfirstgame",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "snowpack dev",
+		"build": "snowpack build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/calvindavis/myfirstgame.git"
+	},
+	"author": "",
+	"license": "UNLICENSE",
+	"bugs": {
+		"url": "https://github.com/calvindavis/myfirstgame/issues"
+	},
+	"homepage": "https://github.com/calvindavis/myfirstgame#readme",
+	"dependencies": {
+		"phaser": "^3.52.0",
+		"prettier": "2.2.1",
+		"snowpack": "^3.0.11"
+	}
+}
