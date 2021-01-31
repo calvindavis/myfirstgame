@@ -4,8 +4,8 @@
 
 You'll need Node and NPM to get started.
 
-- Node &gte;15.7.0
-- NPM &gte;7.4.3
+- Node ≥15.7.0
+- NPM ≥7.4.3
 
 ## Let's get started
 
